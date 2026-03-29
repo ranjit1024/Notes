@@ -39,4 +39,4 @@ func main() {
 	fmt.Println(res)
 	fmt.Println("fad")
 } 
-```thisi is data we are taking 
+```
