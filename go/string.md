@@ -16,3 +16,10 @@ so if you have something like a `Remoji` then it is not a 2 bytes it is 4 bytes 
 
 ### That is the probelm rune solves
 
+rune is actual `Unicode code point` that gives the some code to the the acual char 
+
+here we dont dont care about the `UTF-8` so care acout `Unicode code point`
+for taht char 
+
+
+# rune = int32
