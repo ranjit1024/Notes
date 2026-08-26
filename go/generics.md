@@ -8,3 +8,5 @@ func SliceIndex[S ~[]E, E comparanel](s S, v E)int{
 }
 
 ```
+
+~ this symbol is nutorius part the thing is that this symbol represent the any type that underlaying type is []E which is E type is comparable 
