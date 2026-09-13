@@ -9,3 +9,7 @@ channel direction is something that means  a channel can only can receive or cha
 
 ## Select 
 selet in go can wait for multipul channel opration and can act upon as soon as a it receive a value from any channel 
+
+
+## TimeOut 
+we can create a channel and tell that chaeel wait for some time and after that listen on that channel 
